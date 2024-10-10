@@ -1,0 +1,1 @@
+print("Hola Grupo vamos a ver como cambiar el nombre de un archivo y como eliminarlo")
